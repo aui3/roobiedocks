@@ -1,0 +1,6 @@
+Goals
+
+I have some familiarity with javascript and python programming language. I have completed the Frontend and Full Stack Nanodegrees. I took one course in Ruby a few years ago, on a different MOOC platfromr, but it all seemed fairly magical and I did not understand what goes on behind the hood in Ruby.
+
+
+I hope to learn Ruby and really understand how it functions, under the hood. Hopefully this is will help me demystify the language a little and make learning easier.

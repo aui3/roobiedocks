@@ -1,0 +1,5 @@
+Challenges
+
+1) I believe I have intermediate level skills in javascript and basic to intermediate skill level in Python. My concern is that instead is it really good to have basic level knowledge of three languages, as opposed to advanced skill level in just one?
+
+2) How in demand are rails developers? 
