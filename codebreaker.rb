@@ -29,7 +29,7 @@ code = "M.E?CIQN E?RS, D?NA EQC,IN S,,I Z?TQAM,"
 code = code.reverse.chop.reverse
 
 # 1. Insert the string "A EW? O" at the code's 11th position. 
-code.insert(10, "A EW? O")
+code.insert(11, "A EW? O")
 
 # 2. Remove all instances of the characters 'Q', '?', and ','.
 code = code.delete "Q?,"
